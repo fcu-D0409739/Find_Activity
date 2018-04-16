@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Find_Activity</string>
+    <string name="title_activity_find_activity">Map</string>
+    <string name="activity_name">活動名稱</string>
+    <string name="activity_introduce">活動介紹</string>
+    <string name="carry_out">完成</string>
+    <string name="return_back">返回</string>
+    <string name="time">時間</string>
+    <string name="location">地點</string>
+</resources>
